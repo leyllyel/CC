@@ -12,3 +12,4 @@ C:\Users\prdb\source\repos\ConsoleApp8\obj\Debug\net8.0\refint\ConsoleApp8.dll
 C:\Users\prdb\source\repos\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.pdb
 C:\Users\prdb\source\repos\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.genruntimeconfig.cache
 C:\Users\prdb\source\repos\ConsoleApp8\obj\Debug\net8.0\ref\ConsoleApp8.dll
+C:\Users\prdb\source\repos\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.sourcelink.json
